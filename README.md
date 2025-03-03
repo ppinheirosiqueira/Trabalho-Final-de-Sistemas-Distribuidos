@@ -28,7 +28,7 @@ Embora existam formas mais eficientes de comunicação, todas as mensagens troca
 
 ### 🖼️ Imagens  
 
-Cada cliente possui um **banco próprio de imagens**, numeradas de **1 a 30**, permitindo que cada usuário tenha suas próprias ilustrações do jogo.  
+Cada cliente possui um **banco próprio de imagens**, numeradas de **1 a 30**, permitindo que cada usuário tenha suas próprias ilustrações do jogo. As imagens utilizadas fora pegas do [Pixel Art Icon Pack - RPG](https://cainos.itch.io/pixel-art-icon-pack-rpg), são imagens 32x32.
 
 ## 🎮 Fluxo de um Jogador  
 
